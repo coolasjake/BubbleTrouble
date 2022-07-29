@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Wall
+  - Ceiling
+  - Grapple
+  - Ball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Balls
+  - Grapple
+  - Floor
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 892612361
+    locked: 0
+  - name: Walls
+    uniqueID: 803239419
+    locked: 0
+  - name: Grapple
+    uniqueID: 1730899029
+    locked: 0
+  - name: Player
+    uniqueID: 2891259847
+    locked: 0
+  - name: Balls
+    uniqueID: 2461719893
+    locked: 0
+  - name: Blocking
+    uniqueID: 1996255619
+    locked: 0
