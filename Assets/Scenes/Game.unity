@@ -1391,7 +1391,7 @@ MonoBehaviour:
   - {fileID: 1431145891}
   - {fileID: 1121970709}
   - {fileID: 946716580}
-  active: {fileID: 21300000, guid: 3aca0e41664ec4d4394f018c726b0e1f, type: 3}
+  active: {fileID: 21300000, guid: 06f0557c4f4da5f47ad58ab7b7b0f7ea, type: 3}
   disabled: {fileID: 21300000, guid: 766b7cf7b767bfd40b0c86eea93c8d31, type: 3}
 --- !u!222 &462518571
 CanvasRenderer:
@@ -2199,7 +2199,7 @@ MonoBehaviour:
   - {fileID: 90294708}
   - {fileID: 1457136583}
   - {fileID: 1116057848}
-  active: {fileID: 21300000, guid: 3aca0e41664ec4d4394f018c726b0e1f, type: 3}
+  active: {fileID: 21300000, guid: 06f0557c4f4da5f47ad58ab7b7b0f7ea, type: 3}
   disabled: {fileID: 21300000, guid: 766b7cf7b767bfd40b0c86eea93c8d31, type: 3}
 --- !u!222 &1017287695
 CanvasRenderer:
